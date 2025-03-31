@@ -1,0 +1,52 @@
+{
+  "leaf_spot": {
+    "scientific_name": "Cercospora spp.",
+    "solutions": [
+      "Remove and destroy infected leaves",
+      "Apply copper-based fungicide every 7-10 days",
+      "Improve air circulation around plants",
+      "Avoid overhead watering to reduce leaf wetness"
+    ],
+    "prevention": "Plant resistant varieties when available. Space plants properly to allow good air circulation."
+  },
+  "powdery_mildew": {
+    "scientific_name": "Erysiphe spp.",
+    "solutions": [
+      "Apply sulfur or potassium bicarbonate-based fungicides",
+      "Prune affected plant parts",
+      "Use milk spray (1 part milk to 9 parts water)",
+      "Apply neem oil every 7-14 days"
+    ],
+    "prevention": "Plant in full sun. Avoid overcrowding plants. Water early in the day."
+  },
+  "rust": {
+    "scientific_name": "Puccinia spp.",
+    "solutions": [
+      "Remove and destroy infected leaves",
+      "Apply fungicides containing myclobutanil or tebuconazole",
+      "Improve air circulation",
+      "Avoid overhead irrigation"
+    ],
+    "prevention": "Remove nearby alternate host plants. Clean up plant debris in fall."
+  },
+  "blight": {
+    "scientific_name": "Phytophthora infestans",
+    "solutions": [
+      "Remove and destroy infected plants immediately",
+      "Apply copper-based fungicides preventatively",
+      "Avoid working with plants when wet",
+      "Rotate crops annually"
+    ],
+    "prevention": "Use disease-free seed. Water at base of plants. Stake plants to improve air flow."
+  },
+  "root_rot": {
+    "scientific_name": "Pythium spp.",
+    "solutions": [
+      "Improve soil drainage",
+      "Reduce watering frequency",
+      "Apply fungicides containing mefenoxam",
+      "Remove severely affected plants"
+    ],
+    "prevention": "Use well-draining soil. Avoid overwatering. Sterilize pots and tools between uses."
+  }
+}
