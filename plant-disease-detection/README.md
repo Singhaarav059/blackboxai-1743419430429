@@ -1,4 +1,6 @@
-# Plant Disease Detection System
+# Plant Disease Detection
+
+[➡️ Open Application Directly](open-app.html) (requires server to be running)
 
 A complete AI-powered web application for detecting plant diseases and providing treatment solutions.
 
